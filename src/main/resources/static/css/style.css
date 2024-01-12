@@ -1,0 +1,27 @@
+
+body {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	margin: 0 ;
+	
+}
+
+.login-container{
+	text-align: center;
+}
+.login-container h1{
+	font-size: 2em;
+}
+.login-container ul{
+	list-style-type: none;
+	padding: 0;
+}
+.login-container a{
+	text-decoration: none;
+	background-color: #4caf50;
+	color: white;
+	padding: 10px 20px;
+	border-radius: 5px;
+}
